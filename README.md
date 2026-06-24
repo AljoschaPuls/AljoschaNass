@@ -1,4 +1,4 @@
-# Aljoscha Naß
+# Aljoscha Puls
 **Frontend-Entwickler · Niedersachsen**
 
 > Ich repariere Technik bei der Bahn und baue sie abends selbst – mit Code.
@@ -91,7 +91,7 @@ Join ist ein Kanban-Tool für gemeinsame Projektplanung – gebaut zu dritt. Was
 
 <br>
 
-# Aljoscha Naß
+# Aljoscha Puls
 **Frontend Developer · Lower Saxony, Germany**
 
 > I fix machinery at Deutsche Bahn by day and build my own at night — with code.
